@@ -1,3 +1,18 @@
-A coding standard for phpCodeSniffer suitable for use in teaching environments
+A coding standard for phpCodeSniffer suitable for use in teaching environments (webed directory)
 Mostly based on the Zend standard, but relaxed and all rules specific to the Zend project have been removed
+
+In addition to this, I also keep the coding Standard Keryx here, to be used in my own projects
+
+Finally I will also put a few PHP-scripts here that are being used for educational purposes
+
+This started as a work for The Web Standards Project Education Task Force InterACT curriculum project
+http://interact.webstandards.org/
+
+Specifically the course in Server Side Scripting
+http://interact.webstandards.org/curriculum/serve-side-dev/server-side-scripting-1/?overview
+
+That project will in turn be used by the W3C and its Education Community Group
+http://www.w3.org/community/webed/
+
+
 WIP

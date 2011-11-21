@@ -15,7 +15,7 @@
  * Checks that the file does not end with a closing tag.
  *
  * @category  PHP
- * @package   PHP_CodeSniffer
+ * @package   PHP_CodeSniffer (Zend original author)
  * @link      http://pear.php.net/package/PHP_CodeSniffer
  */
 class webed_Sniffs_Files_ClosingTagSniff implements PHP_CodeSniffer_Sniff
