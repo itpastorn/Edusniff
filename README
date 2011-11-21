@@ -1,0 +1,3 @@
+A coding standard for phpCodeSniffer suitable for use in teaching environments
+Mostly based on the Zend standard, but relaxed and all rules specific to the Zend project have been removed
+WIP
