@@ -37,7 +37,7 @@ class webed_Sniffs_Files_LineLengthSniff extends Generic_Sniffs_Files_LineLength
      *
      * @var int
      */
-    protected $lineLimit = 100;
+    public $lineLimit = 100;
 
     /**
      * The limit that the length of a line must not exceed.
@@ -46,7 +46,7 @@ class webed_Sniffs_Files_LineLengthSniff extends Generic_Sniffs_Files_LineLength
      *
      * @var int
      */
-    protected $absoluteLineLimit = 130;
+    public $absoluteLineLimit = 130;
 
 }//end class
 

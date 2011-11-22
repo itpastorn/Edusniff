@@ -36,7 +36,7 @@ class Keryx_Sniffs_Files_LineLengthSniff extends Generic_Sniffs_Files_LineLength
      *
      * @var int
      */
-    protected $lineLimit = 120;
+    public $lineLimit = 120;
 
     /**
      * The limit that the length of a line must not exceed.
@@ -45,7 +45,7 @@ class Keryx_Sniffs_Files_LineLengthSniff extends Generic_Sniffs_Files_LineLength
      *
      * @var int
      */
-    protected $absoluteLineLimit = 150;
+    public $absoluteLineLimit = 150;
 
 }//end class
 
