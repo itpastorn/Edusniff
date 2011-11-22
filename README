@@ -16,3 +16,11 @@ http://www.w3.org/community/webed/
 
 
 WIP
+
+
+How I deploy on my machine:
+
+cd /path/to/where-this-README-is/
+sudo rsync -av webed /usr/share/pear/PHP/CodeSniffer/Standards/
+sudo rsync -av Keryx /usr/share/pear/PHP/CodeSniffer/Standards/
+
